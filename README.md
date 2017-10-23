@@ -11,7 +11,7 @@
 
 ## About Aurora Framework
 
-Aurora is a Software Framework for General Purpose developed by Luís Ferreira that runs in all platforms, like (Windows NT and \*NIX Environments such as Linux and Apple Systems). It includes libraries to make code more easier to use.
+Aurora is a Software Framework for General Purpose developed by Luís Ferreira that runs in all platforms, like (Windows NT and \*NIX Environments such as Linux and Apple Systems). It includes libraries to make code easier to use.
 
 ### Contributors
  - Luís "ljmf00" Ferreira (Project Founder)
