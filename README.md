@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://travis-ci.org/aurora-fw/ci"><img src="https://travis-ci.org/aurora-fw/ci.svg" alt="Build Status"></a>
-  <a href="https://ci.appveyor.com/project/ljmf00/ci/"><img src="https://ci.appveyor.com/api/projects/status/gv86w8tjdknx5tj1?svg=true" alt="Build Status: Windows"></a>
+  <a href="https://ci.appveyor.com/project/auroraframework/ci/"><img src="https://ci.appveyor.com/api/projects/status/db9pd7tj0jqq9813?svg=true" alt="Build Status: Windows"></a>
   <a href="https://www.gnu.org/licenses/lgpl-3.0.html"><img src="https://img.shields.io/badge/license-LGPLv3-lightgrey.svg" alt="License"></a>
   <a href="https://discord.gg/8wEpF75"><img src="https://discordapp.com/api/guilds/350229534832066572/embed.png" alt="Discord Server"></a>
 </p>
